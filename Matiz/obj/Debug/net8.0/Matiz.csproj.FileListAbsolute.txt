@@ -1,0 +1,14 @@
+C:\Users\13735727603\source\repos\Matiz\Matiz\bin\Debug\net8.0\Matiz.exe
+C:\Users\13735727603\source\repos\Matiz\Matiz\bin\Debug\net8.0\Matiz.deps.json
+C:\Users\13735727603\source\repos\Matiz\Matiz\bin\Debug\net8.0\Matiz.runtimeconfig.json
+C:\Users\13735727603\source\repos\Matiz\Matiz\bin\Debug\net8.0\Matiz.dll
+C:\Users\13735727603\source\repos\Matiz\Matiz\bin\Debug\net8.0\Matiz.pdb
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.AssemblyInfoInputs.cache
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.AssemblyInfo.cs
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.csproj.CoreCompileInputs.cache
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.dll
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\refint\Matiz.dll
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.pdb
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\Matiz.genruntimeconfig.cache
+C:\Users\13735727603\source\repos\Matiz\Matiz\obj\Debug\net8.0\ref\Matiz.dll
